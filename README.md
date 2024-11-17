@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manuelpoGitHub
-- 👀 I’m interested in learning all needed to become a Software Engineer
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Python and Data structures and Algorithms
+- 👀 I’m interested in learning all needed to become a AWS Solutions Architect/DevOps Engineer 
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Python and Data structures and Algorithms as part of Software Enginering
 - 💞️ I’m looking to collaborate on what is required.
 - 📫 How to reach me my email address manuelpo@msn.com please add message heading that is from GitHub so it will not go to my junk email.
 
